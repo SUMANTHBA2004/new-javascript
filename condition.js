@@ -9,3 +9,8 @@ if(value>=18){
 
 }
 isEligible();
+//git branch
+//git status
+//git add .
+//git commit -m "commert line"
+//git push
